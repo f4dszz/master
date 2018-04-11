@@ -1,0 +1,2 @@
+* master is a master
+* the system shall be easy to use
